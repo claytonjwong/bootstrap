@@ -556,6 +556,13 @@ p.extend-details {
   -o-background-size: cover;
   background-size: cover;
 }
+.bg-projects {
+	background: url('../img/pexels/pexels-3.jpg') no-repeat center center;
+	-webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 .separ {
   margin-top: 50px;
 }
@@ -657,6 +664,10 @@ p.extend-details {
 }
 .color-c {
   color: #580183;
+}
+
+.color-d {
+	color: #EC0856;
 }
 
 /* Software Abilities */
